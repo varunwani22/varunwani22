@@ -2,7 +2,7 @@ Hi there 👋
 
 <ul>
   
-<li>🌱 I'm currently learning Android.</li>
+<li>🌱 Working as Mobile developer</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/varun-wani-022/" rel="nofollow">Varun Wani</a></li>
 <li>😄 Pronouns: He/Him/His</li>
 </ul>
